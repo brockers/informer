@@ -1,6 +1,8 @@
 source "http://rubygems.org"
 
 gem 'sinatra'
+gem 'couchrest'
+gem 'json'
 
 group :development do 
 	gem 'rerun'
